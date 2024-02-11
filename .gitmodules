@@ -1,3 +1,6 @@
 [submodule "TP1"]
 	path = TP1
 	url = https://github.com/valencorrea/7506R-2C2022-GRUPO14-TP1
+[submodule "TP2"]
+	path = TP2
+	url = https://github.com/valencorrea/7506R-2C2022-GRUPO14-TP2
