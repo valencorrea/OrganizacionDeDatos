@@ -1,6 +1,3 @@
-[submodule "7506R-2C2022-GRUPO14-TP1"]
-	path = 7506R-2C2022-GRUPO14-TP1
+[submodule "/home/valen/git/OrganizacionDeDatos/TP1"]
+	path = /home/valen/git/OrganizacionDeDatos/TP1
 	url = https://github.com/valencorrea/7506R-2C2022-GRUPO14-TP1
-[submodule "7506R-2C2022-GRUPO14-TP2"]
-	path = 7506R-2C2022-GRUPO14-TP2
-	url = https://github.com/valencorrea/7506R-2C2022-GRUPO14-TP2
